@@ -1,0 +1,608 @@
+I need to generate a video of our Director advertising the organization (We have 10 different labs).
+1) He will be introducing himself.
+2) He will talk about every different lab.
+3) One condition is while he is talking background must change based on the lab he is talking about.
+I only have his body shot image right now 
+tell more things I am not covering in this prompt.
+------------------------------------------
+1. Voice & Audio Requirements
+	a. Voice Model:
+		i. First Priority: Real Cloned Voice
+		ii. Second Priority: Cloned Authoritative Male Voice
+	b. Tone and Style: Professional, Formal
+	c. Pacing: Moderate
+	d. Accent: 
+		i. Irrelevant if we get real cloned voice
+		ii. English accent
+2. Script Details:
+	a. Will have a script
+	b. 210 seconds (20 seconds per lab) and 10 seconds DG's intro
+	c. Key points: Facility and Mission of the lab
+3. Background Transitions:
+	a. AI Generated visuals
+	b. Avoid Logos
+	c. Transition Style: Fade 
+4. Visual Style: 
+	a. Director will be moving rightward with hand gesture and speaking continously about labs one after the another.
+	b. Lips and Facial expressions will be realistic. Mouth movements must match speech
+	c. Clothing remains unchanged
+	d. Camera Framing: Full body shot
+	e. Scene lighting Style: Corporate Bright
+	Art STyle: hyper-realistic
+5. Image Quality & Consistency:
+	a. Same Outfit iin all scenes
+	b. Same lightining.
+	c. No enhancing, Upscaling, retouching the provided image
+	d. Subtle natural movement
+6. Branding Requirements: (isn't necessary, Hence removed)
+7. Ethical & Consent Notes:
+	a. Waiting on further information from the team
+8. Output Formating:
+	a. 1080p
+	b. 16:9 landscape
+9. Background Music and Sound effect:
+	a. No
+10. Subtitles:
+	a. No
+-----------------------------------------------------------------------------------------
+Here is a **clear, practical execution plan** — from now until the final video — so you know exactly what to do step-by-step. This avoids overthinking and ensures you don’t miss anything.
+
+---
+
+# ✅ **PHASE 1 — PREPARATION (Before Video Creation)**
+
+### **1️⃣ Get missing approvals**
+
+* Confirm (in writing) that the Director approves:
+
+  * Use of his image
+  * Use of his voice (if cloning)
+  * Use of AI-generated video
+* This is required for most platforms.
+
+---
+
+### **2️⃣ Collect necessary files**
+
+* **Director’s full-body image** (already have)
+* **Voice sample** (if cloning; 2–5 minutes clean audio)
+* **Script** (must total ~220 seconds)
+
+---
+
+### **3️⃣ Finalize the script**
+
+* 10s intro
+* 10 labs × 20s each
+* Include cues like:
+  “Scene: Lab 3 background (AI-generated facility image)”
+  — This makes later editing easier.
+
+---
+
+# ✅ **PHASE 2 — TOOL SELECTION (Choose the Platform)**
+
+You need a platform that can:
+
+* Animate a person from one image
+* Clone voice (optional)
+* Change background per segment
+* Handle long videos (220 seconds)
+
+### **Recommend best options:**
+
+**Tier 1 (Strongest for your needs):**
+
+* **HeyGen** (best for realistic lip-sync + long videos)
+* **D-ID** (clean lipsync, strong movement control)
+* **Pika Labs** (for background changes, but less accurate for faces)
+
+**Tier 2 (If you need fine control):**
+
+* **Runway Gen-2** (more flexible but less accurate face consistency)
+
+**Best pick for your case:**
+➡️ **HeyGen + Voice Clone + Scene Timeline Editing**
+
+---
+
+# ✅ **PHASE 3 — VIDEO PRODUCTION PIPELINE**
+
+### **4️⃣ Create the AI voice**
+
+If using real cloned voice:
+
+* Upload Director’s audio sample
+* Let tool generate voice ID
+* Test and verify clarity
+* If cloning is unavailable → use “Authoritative English Male Voice”
+
+---
+
+### **5️⃣ Build the video in segments (Best workflow)**
+
+Produce **11 short clips**, then assemble.
+
+Why?
+Because 220 seconds in one AI generation → high risk of glitches.
+
+**Segments to create:**
+
+1. Intro (10 seconds)
+   2–11. Labs 1–10 (20 seconds each)
+
+---
+
+### **6️⃣ For each segment, do this:**
+
+* Upload Director’s body-shot image
+* Paste the 20-second script for that lab
+* Select:
+
+  * Hyper-realistic style
+  * Full-body framing
+  * Realistic movement
+  * Consistent lighting
+  * No logos
+  * Fade transition at start + end
+* Choose AI-generated background → describe in prompt
+  (“High-tech research facility representing Lab 4 mission, no logos”)
+
+Generate the clip.
+
+---
+
+# ✅ **PHASE 4 — ASSEMBLY & CONSISTENCY**
+
+### **7️⃣ Combine all 11 clips**
+
+Use:
+
+* CapCut
+* Adobe Premiere
+* DaVinci Resolve (free, pro-level)
+
+Ensure:
+
+* Seamless fade between every clip
+* Same audio levels
+* No sudden posture or lighting changes
+* Background transitions flow naturally (fade recommended)
+
+---
+
+### **8️⃣ Quality Check**
+
+Watch for:
+
+* Lip-sync accuracy
+* Background consistency
+* Motion continuity
+* No artifacting
+* No frame jitters
+* Director’s outfit unchanged
+* Lighting consistency
+
+If any segment is imperfect, regenerate only that segment.
+
+---
+
+# ✅ **PHASE 5 — FINALIZATION & DELIVERY**
+
+### **9️⃣ Export final video**
+
+Settings:
+
+* 1080p
+* 16:9
+* MP4
+* 20–40 Mbps bitrate (for clarity)
+
+---
+
+### **🔟 Save project files**
+
+Keep:
+
+* All clip exports
+* Final edit project file
+* Script
+* AI voice asset
+* Director consent note
+  …in one folder for future edits.
+
+---
+
+# 🎯 **BONUS: OPTIONAL PROFESSIONAL TOUCHES**
+
+* Add a title card (“Director’s Overview of 10 Labs”)
+* Add a closing fade to black
+* Add soft room-tone audio (optional but keeps video from feeling “dead silent”)
+* Add consistent color correction (small amount)
+
+---
+
+# ✅ **If you want, I can create:**
+
+✔ A step-by-step version customized for **HeyGen**, **D-ID**, or **Runway**
+✔ A sample background description for each lab
+✔ A checklist you can send to your team
+✔ A script template
+
+Just tell me what platform you plan to use **or** if you want me to help choose one.
+-----------------------------------------------------------------------------------------
+3️⃣ How to Add Audio to WAN 2.2 Videos (Recommended Workflow)
+
+Below is the officially recommended architecture when using WAN in ComfyUI.
+
+Step 1 — Generate audio separately
+
+Use any open-source Text-to-Speech or voice cloning model:
+
+Recommended TTS Models
+Model	Strength
+OpenVoice	Best for cloning real speakers
+MeloTTS	Very natural pacing + clarity
+Bark	Good realism, fast
+Tortoise TTS	Slow but high fidelity
+VoiceCraft	Modern and flexible
+
+Export audio as .wav or .mp3.
+
+Step 2 — Generate video with WAN 2.2
+
+In ComfyUI:
+
+Run WAN 2.2 workflow
+
+Output: silent_video.mp4
+
+Each clip will be silent but visually complete.
+
+Step 3 — (Optional) Improve lip-sync using GeneFace++ or Wav2Lip
+
+If lip-sync accuracy matters:
+
+Input: silent WAN video
+
+Input: generated audio
+
+Output: lips aligned to speech	
+
+This step is optional but recommended for talking-head content.
+
+Step 4 — Merge audio and video
+
+Use DaVinci Resolve, CapCut, Premiere, or FFmpeg.
+
+FFmpeg command:
+ffmpeg -i silent_video.mp4 -i audio.wav -c:v copy -c:a aac -strict experimental output_with_audio.mp4
+
+Step 5 — Final assembly
+
+If you have multiple WAN clips (e.g., 11 lab segments):
+
+Import all into your editor
+
+Sync each audio track
+
+Add transitions (fade)
+
+Export final video at 1080p
+
+-------------------------------------------------------------------------------------------Great — Windows 11 + RTX 4070 Ti is **perfect** for running WAN 2.2, TTS models, GeneFace++, and ComfyUI smoothly.
+
+Below is a **clean, installation-ready execution plan** specifically tailored for your hardware.
+This includes:
+
+* What to install
+* How to configure WAN 2.2 in ComfyUI
+* How to generate audio
+* How to synchronize audio with WAN videos
+* Optional automation inside ComfyUI
+
+You can give this to your team as internal documentation.
+
+---
+
+# 📘 **Documentation: WAN 2.2 Audio Workflow Guide**
+
+### Windows 11 · NVIDIA RTX 4070 Ti
+
+---
+
+# 1️⃣ **System Requirements & Setup**
+
+### **1.1 Hardware**
+
+* **OS:** Windows 11
+* **GPU:** RTX 4070 Ti (12 GB VRAM)
+* **CPU:** Any modern i5/i7/Ryzen (not critical)
+* **RAM:** 16 GB minimum (32 GB recommended)
+
+4070 Ti benchmarks:
+
+* WAN 2.2 → 10–20 sec video generation = 4–8 min
+* TTS models = instantaneous to a few seconds
+* GeneFace++ = real-time to 2× slower than real-time
+
+---
+
+# 2️⃣ **Install Required Software**
+
+## **2.1 Install ComfyUI (Windows Portable Build)**
+
+1. Download the latest **ComfyUI Windows portable build**:
+   *(This works out of the box — no Python install needed.)*
+2. Extract to:
+   `C:\AI\ComfyUI`
+3. Run:
+   `run_nvidia_gpu.bat`
+
+---
+
+## **2.2 Install WAN 2.2 for ComfyUI**
+
+You will do this:
+
+```
+C:\AI\ComfyUI\custom_nodes
+```
+
+Inside `custom_nodes`, clone:
+
+```
+git clone https://github.com/Wan-Video/WanComfyUI.git
+```
+
+Then download WAN 2.2 model files into:
+
+```
+C:\AI\ComfyUI\models\checkpoints
+```
+
+You need:
+
+* `WAN_2.2.safetensors`
+* Any supplementary motion/conditioning models (depending on the workflow)
+
+Restart ComfyUI.
+
+You should now see WAN workflows under the **Examples** tab.
+
+---
+
+# 3️⃣ **Why WAN 2.2 Outputs Silent Videos**
+
+WAN 2.2:
+
+* Has **no audio module**
+* Was not trained on speech or sound
+* Produces **only video frames**
+* ComfyUI FFMPEG exporter builds a video stream **with no audio track**
+
+This is normal and not configurable inside WAN.
+
+---
+
+# 4️⃣ **Audio Workflow (Required Step)**
+
+You must generate audio **outside** WAN 2.2.
+Your GPU is ideal for all major open-source voice models.
+
+---
+
+# 4.1 **Generate Audio (TTS / Voice Clone)**
+
+Below are the recommended tools for Windows:
+
+---
+
+## **OPTION A — OpenVoice (Best for cloning the Director)**
+
+1. Install Python 3.10
+2. Clone repo:
+
+   ```
+   git clone https://github.com/myshell-ai/OpenVoice.git
+   ```
+3. Install requirements:
+
+   ```
+   pip install -r requirements.txt
+   ```
+4. Run:
+
+   ```
+   python inference.py --reference_audio director.wav --text "Your script here"
+   ```
+
+Produces:
+`audio_director.wav`
+
+**Pros:**
+✔ Best cloning authenticity
+✔ Controls tone and style
+
+**Cons:**
+Requires a clean voice sample (1–3 minutes).
+
+---
+
+## **OPTION B — MeloTTS (Best overall TTS voice quality)**
+
+Install:
+
+```
+pip install meloaudio
+```
+
+Generate:
+
+```python
+from meloaudio import TTS
+tts = TTS(language='EN')
+tts.tts_to_file("This is the script text.", "output.wav")
+```
+
+**Pros:**
+✔ Natural pacing
+✔ Clear diction
+✔ Great for corporate tone
+
+---
+
+## **OPTION C — Bark / Tortoise (extra options)**
+
+Bark = more expressive, slightly robotic
+Tortoise = slow but realistic
+
+Both work flawlessly on 4070 Ti.
+
+---
+
+# 4.2 **(Optional but Recommended) Improve Lip-sync Accuracy**
+
+### **Use GeneFace++**
+
+Exceptional for identity + lip-sync:
+
+GitHub: `https://github.com/yangxy/Genefacepp`
+
+Pipeline:
+
+1. Input video from WAN (`wan_video.mp4`)
+2. Input audio (`audio.wav`)
+3. Run:
+
+   ```
+   python inference.py --video wan_video.mp4 --audio audio.wav --output synced.mp4
+   ```
+
+**Result:**
+WAN motion + corrected lips.
+
+---
+
+### **Alternative: Wav2Lip**
+
+If GeneFace++ is too heavy:
+
+```
+python inference.py --face wan_video.mp4 --audio audio.wav --outfile lipsynced.mp4
+```
+
+---
+
+# 5️⃣ **Merge Audio + Video (Final Step)**
+
+## **Easiest method: CapCut Desktop**
+
+1. Drag `wan_video.mp4`
+2. Drag `audio.wav`
+3. Align
+4. Export at 1080p 16:9
+
+---
+
+## **Professional method: DaVinci Resolve**
+
+1. Import video
+2. Import audio
+3. Offset by 1–3 frames if needed
+4. Render
+
+---
+
+## **Command-line Method (FFmpeg)**
+
+```bash
+ffmpeg -i wan_video.mp4 -i audio.wav -c:v copy -c:a aac -b:a 192k final_video.mp4
+```
+
+---
+
+# 6️⃣ **Optional: Fully Automated Workflow (Inside ComfyUI)**
+
+This requires custom nodes:
+
+### Install:
+
+* **ComfyUI-FFmpeg Node**
+* **ComfyUI-Audio Nodes** (community)
+* **Wav2Lip Node** (optional)
+* **Audio Combine Node**
+
+Pipeline inside ComfyUI:
+
+```
+Text → TTS Node → Audio Output
+          ↓  
+Reference Image → WAN 2.2 → Video Output
+          ↓
+Lip-sync Node (optional)
+          ↓
+FFmpeg Node (merge audio + video)
+```
+
+Output:
+**Final MP4 with audio automatically embedded**
+
+This avoids external editing tools.
+
+---
+
+# 7️⃣ **Recommended Workflow For Your Use Case (Director + Labs)**
+
+### For each lab clip (20 seconds):
+
+1. Generate **audio** with OpenVoice / MeloTTS
+2. Run **WAN 2.2** (video only)
+3. (Optional) Run **GeneFace++** for accurate lip-sync
+4. Add audio to video via FFmpeg/Resolve
+5. Export clip
+6. Use the **last frame as reference image** for the next clip (identity consistency trick)
+
+After generating all 11 clips:
+
+* Combine them
+* Add fade transitions
+* Export final 1080p 16:9
+* Done
+
+Your 4070 Ti will handle this pipeline efficiently.
+
+---
+
+# 🎯 **FINAL RESULT**
+
+After this setup, you will have a **fully open-source**, subscription-free workflow:
+
+### WAN 2.2
+
+↓ (video only)
+
+### OpenVoice / MeloTTS
+
+↓ (audio)
+
+### GeneFace++
+
+↓ (sync)
+
+### FFmpeg / Resolve
+
+↓
+🎬 **Final talking, moving director video with audio**
+
+---
+
+# If you want, I can also provide:
+
+✔ A ComfyUI workflow JSON for WAN 2.2 + lip-sync
+✔ Exact WAN settings for identity consistency
+✔ A ready-made batch-generation script for all 11 clips
+✔ Background prompt templates for each lab segment
+
+Just tell me **if you want a generator-ready workflow or documentation PDF version.**
+

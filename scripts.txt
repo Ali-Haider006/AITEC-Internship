@@ -1,0 +1,16 @@
+Your task to generate a scripts from the provided landing Page text. The script will used for advertising the Labs of AITEC Islamabad. Each script should be for 6-7 seconds. You must follow the coherence, each script must continue the previous one. For example, we will start with Lab #3 now. script should start from 'Now, we will discuss Lab#3 ' 
+Scripts:
+1. Advanced Software and Distributed Computing:
+Now we shall discuss Lab Number 1 — the Advanced Software and Distributed Computing Lab, where cutting-edge software engineering, big data analytics, and distributed systems innovation take place.
+2. Autonomous AI & Decision Support: 
+Moving on, next we have the Autonomous AI and Decision Support Lab — advancing intelligent autonomous systems, cutting-edge machine learning, and AI-driven decision support for real-world impact.
+3. Computer Vision: 
+Now, we will discuss Lab #3 – the Computer Vision Lab, where cutting-edge AI enables machines to see, understand, and interpret images and videos like never before.
+4. Data Science:
+Let’s explore Lab #4 – the Data Science Lab at AITEC Islamabad, where AI meets data! Here, structured and unstructured data is transformed into actionable insights using state-of-the-art AI techniques.
+5. ML/DL Lab:
+Next, let’s explore Lab #5 – the Machine Learning & Deep Learning Lab at AITEC Islamabad! Here, cutting-edge AI algorithms, generative AI, and machine vision come together to push the boundaries of intelligence and innovation.
+6. Natural Language Processing & Edge Computing:
+Step into the Natural Language Processing Lab at AITEC Islamabad, where computers learn to understand and generate human language. Cutting-edge NLP algorithms are shaping the future of communication and AI applications.
+7. Software Optimization For Edge Computing:
+Discover the Software Optimization for Edge Computing Lab, where software meets efficiency. Here, edge devices are empowered with optimized models, real-time processing, and energy-efficient solutions for smarter, faster performance.
